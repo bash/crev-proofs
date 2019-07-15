@@ -19,3 +19,24 @@ review:
 wc-p57m-6AbzFHtq4oRYiB2HjgS_iKgQ9mjAPs4SXIkv35QaariCMkqrBqjri_yQQO_HEgY3Q98QCDV7GdcEAQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-15T10:01:22.282114+02:00"
+from:
+  id-type: crev
+  id: Mw3ReGwT2pB41AUQ12T7TcgvH5pq7I1gd8Iw_LLH4XQ
+  url: "https://github.com/bash/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: nameof
+  version: 1.1.0
+  revision: 49dde05153e91a37cd6db88284b9b3fcdfed5cc2
+  digest: L8ZjYZfcIPCpFXVEQ5wCo7gZUQtZ-IeTHSbkFuQhQB0
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+Hrf97cfx-ly7Oj6QqzwaLHBe2-AnV1jgopEZ1-obCuH1YAkyyskYOOcLrQvrEuFW4JPOd3-BfeOMpOQ2zC1UDw
+-----END CREV PACKAGE REVIEW-----
+
