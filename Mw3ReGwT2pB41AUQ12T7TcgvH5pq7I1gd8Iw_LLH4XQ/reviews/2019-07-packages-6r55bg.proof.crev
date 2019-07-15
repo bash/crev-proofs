@@ -128,3 +128,24 @@ comment: "I'm the author"
 ZPH6c-TmXpmezlf1Q9BBKiwAvVhdkkFJOixb9Ek4LDFMEOGbAWlyBmKiwpFuwrkCYXyPCfaXMNkJCtRyPRrtBw
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-15T10:10:36.282167+02:00"
+from:
+  id-type: crev
+  id: Mw3ReGwT2pB41AUQ12T7TcgvH5pq7I1gd8Iw_LLH4XQ
+  url: "https://github.com/bash/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: mockiato-codegen
+  version: 0.9.0
+  digest: ztE7992zkN6Qv5anFjO6Rfe-1rycnDbcg47e-prewL8
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: "I'm the author"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+TVB-zm17RfPAtryiL0lhfN6cGCylbtnY_8yml-vjfNl441AqJ6MJeUONcaWobTSw0aaXERm1Vb1lna4Xta3tBQ
+-----END CREV PACKAGE REVIEW-----
+
