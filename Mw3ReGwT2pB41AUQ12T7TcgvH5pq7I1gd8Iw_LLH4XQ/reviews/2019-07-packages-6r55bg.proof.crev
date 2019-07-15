@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-15T09:55:27.366413+02:00"
+from:
+  id-type: crev
+  id: Mw3ReGwT2pB41AUQ12T7TcgvH5pq7I1gd8Iw_LLH4XQ
+  url: "https://github.com/bash/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: wonderbox
+  version: 0.5.0
+  revision: e87b049f521972a5b83ae0df15e1fd6870540dc3
+  digest: hvIXbAoY-8flanklLOP4ee3_WQSmNXuHe1Jaq8dyZcI
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+wc-p57m-6AbzFHtq4oRYiB2HjgS_iKgQ9mjAPs4SXIkv35QaariCMkqrBqjri_yQQO_HEgY3Q98QCDV7GdcEAQ
+-----END CREV PACKAGE REVIEW-----
+
