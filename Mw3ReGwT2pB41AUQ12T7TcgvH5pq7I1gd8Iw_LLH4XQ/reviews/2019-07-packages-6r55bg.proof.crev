@@ -84,3 +84,25 @@ comment: "I'm one of the authors"
 ftKrFUSwKADoXTyuG_Hvk98Nr7ESVHQ_lk8WgBYuipGo9zjmk9aBy1R5nfK7T3GHyuCv4H_37fjYOEUf01bAAA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-15T10:09:38.569823+02:00"
+from:
+  id-type: crev
+  id: Mw3ReGwT2pB41AUQ12T7TcgvH5pq7I1gd8Iw_LLH4XQ
+  url: "https://github.com/bash/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: mockiato
+  version: 0.8.0
+  revision: ad8210ee478c8d7860d9e1f1631f75973e2d922e
+  digest: A4HToIn7JfXcSy2s3ySx0JodChVHrjePRLMv6_fwLSw
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: "I'm the author"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+QEWscfeVfg6aqZVAfaENxht6V7kTa9BjDUtfN1sq8gEn0xVC_jPJwWAx7FRSskaCF8ly_enVNAkxBOaswHaFBA
+-----END CREV PACKAGE REVIEW-----
+
