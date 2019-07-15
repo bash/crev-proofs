@@ -28,6 +28,13 @@ pnkfelix
 sfackler
 withoutboats
 
+# Myelin
+bash
+jnferner
+jeremystucki
+Mafii
+github:myelin-ai:developers
+
 github:rust-lang:libs
 github:rust-lang-nursery:log-owners
 github:rust-random:maintainers
