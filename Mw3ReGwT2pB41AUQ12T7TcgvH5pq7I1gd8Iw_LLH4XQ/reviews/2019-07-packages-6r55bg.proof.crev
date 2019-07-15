@@ -62,3 +62,25 @@ comment: "I'm one of the authors"
 D6GotseX7M8oIfRi_mja5mmEuo32YFbx7f_KOZFFBvr04pn5PlF42pv_pVNsBki7q39QJoBJmgli7LB5i3jkAQ
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-15T10:08:30.843923+02:00"
+from:
+  id-type: crev
+  id: Mw3ReGwT2pB41AUQ12T7TcgvH5pq7I1gd8Iw_LLH4XQ
+  url: "https://github.com/bash/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: myelin-engine
+  version: 0.14.0
+  revision: fa9acdf715e45d375f272d2bfe326f2426421233
+  digest: XufHMCXYuLwgQpkVAczlOiJk2fc5lEG1Ln5X3sv8YMc
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: "I'm one of the authors"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+ftKrFUSwKADoXTyuG_Hvk98Nr7ESVHQ_lk8WgBYuipGo9zjmk9aBy1R5nfK7T3GHyuCv4H_37fjYOEUf01bAAA
+-----END CREV PACKAGE REVIEW-----
+
