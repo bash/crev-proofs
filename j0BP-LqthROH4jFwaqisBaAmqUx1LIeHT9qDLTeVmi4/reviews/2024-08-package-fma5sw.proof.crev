@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-08-19T10:54:10.099015276+02:00
+from:
+  id-type: crev
+  id: j0BP-LqthROH4jFwaqisBaAmqUx1LIeHT9qDLTeVmi4
+  url: https://github.com/bash/crev-proofs.git
+package:
+  source: https://crates.io
+  name: libc
+  version: 0.2.155
+  revision: 7df63bd7f61bf3408344673cf0ba08e7ff0df134
+  digest: EwjldSd2Ujk6Qp-TWk6l7obbNJhR-TBpjXsMnBzDcIw
+review:
+  thoroughness: none
+  understanding: medium
+  rating: positive
+comment: |-
+  Official rust-lang package
+----- SIGN CREV PROOF -----
+ETb3o1qXYtgbbckMqQtuAi-C0Wahmjf7htHERjcmTxrPvJBkV8SKtdmq2dX1UM87dtqviwZV7pqH5I97y1eHDg
+----- END CREV PROOF -----
+
