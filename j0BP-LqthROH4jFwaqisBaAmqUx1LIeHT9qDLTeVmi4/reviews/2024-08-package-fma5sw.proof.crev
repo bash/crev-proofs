@@ -22,3 +22,27 @@ comment: |-
 ETb3o1qXYtgbbckMqQtuAi-C0Wahmjf7htHERjcmTxrPvJBkV8SKtdmq2dX1UM87dtqviwZV7pqH5I97y1eHDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2024-08-19T11:08:17.244520834+02:00
+from:
+  id-type: crev
+  id: j0BP-LqthROH4jFwaqisBaAmqUx1LIeHT9qDLTeVmi4
+  url: https://github.com/bash/crev-proofs.git
+package:
+  source: https://crates.io
+  name: is_terminal_polyfill
+  version: 1.70.0
+  revision: 1f8f27a97e5653c60a5cb757ed8ab46e14fe9282
+  digest: pfw-1ljD8pVdz3Nif5V5qP3ktWhuksVIv0RxcQ5YjBg
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: |-
+  This version is a no-op that forwards to `std::io::IsTerminal`
+----- SIGN CREV PROOF -----
+2jiwK462HgcwldgvGmpOja6TIFtn4ir2vt00ymA60mM95ETNr_u-XK_xlxJZUyulbGFfIhv5tZivsLDyWKqCCQ
+----- END CREV PROOF -----
+
